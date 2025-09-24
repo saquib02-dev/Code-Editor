@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cm-editor{
+    height: 340px !important;
+    color: white;
+    background: #1d1e22;
+}
